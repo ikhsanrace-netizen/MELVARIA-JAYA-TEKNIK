@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Melvaria Jaya Teknik",
+  "description": "Pengadaan, penjualan unit AC, dan jasa perawatan, perbaikan, cuci, analisa kebocoran serta pemasangan AC profesional untuk hunian dan perkantoran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
